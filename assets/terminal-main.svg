@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 1100 2394">
+  <style>
+    .terminal-text {
+      font-family: Consolas, Menlo, Monaco, 'Courier New', monospace;
+      font-size: 24px;
+      font-weight: bold;
+    }
+  </style>
+  <rect width="1100" height="2394" fill="#000000"/>
+  <g class="terminal-text" xml:space="preserve">
+    <text x="56" y="60" fill="#ffffff">pradeep@github:~$ who-am-i</text>
+    <text x="56" y="136" fill="#ffffff"> _   _      _      ____    _   _ </text>
+    <text x="56" y="174" fill="#ffffff">| \ | |    / \    |  _ \  | | | |</text>
+    <text x="56" y="212" fill="#ffffff">|  \| |   / _ \   | |_) | | | | |</text>
+    <text x="56" y="250" fill="#ffffff">| |\  |  / ___ \  |  _ &lt;  | |_| |</text>
+    <text x="56" y="288" fill="#ffffff">|_| \_| /_/   \_\ |_| \_\  \___/ </text>
+    <text x="56" y="364" fill="#ffffff"> ____    ____       _      ____    _____   _____   ____  </text>
+    <text x="56" y="402" fill="#ffffff">|  _ \  |  _ \     / \    |  _ \  | ____| | ____| |  _ \ </text>
+    <text x="56" y="440" fill="#ffffff">| |_) | | |_) |   / _ \   | | | |  _|   |  _|   | |_) |</text>
+    <text x="56" y="478" fill="#ffffff">|  __/  |  _ &lt;   / ___ \  | |_| | | |___  | |___  |  __/ </text>
+    <text x="56" y="516" fill="#ffffff">|_|     |_| \_\ /_/   \_\ |____/  |_____| |_____| |_|    </text>
+    <text x="56" y="592" fill="#9a9a9a">Software Engineer</text>
+    <text x="56" y="630" fill="#9a9a9a">Backend Developer</text>
+    <text x="56" y="668" fill="#9a9a9a">Building developer tools and API-based systems.</text>
+    <text x="56" y="781" fill="#ffffff">pradeep@github:~$ cat interests.txt</text>
+    <text x="56" y="857" fill="#9a9a9a">Backend Engineering</text>
+    <text x="56" y="895" fill="#9a9a9a">API Security</text>
+    <text x="56" y="933" fill="#9a9a9a">Developer Tools</text>
+    <text x="56" y="971" fill="#9a9a9a">Open Source</text>
+    <text x="56" y="1084" fill="#ffffff">pradeep@github:~$ ./tech-stack.sh</text>
+    <text x="56" y="1160"><tspan fill="#9a9a9a">LANGUAGES  </tspan><tspan fill="#ffffff">::  [ JAVA ]  [ JAVASCRIPT ]  [ PYTHON ]</tspan></text>
+    <text x="56" y="1198"><tspan fill="#9a9a9a">BACKEND    </tspan><tspan fill="#ffffff">::  [ NODE.JS ]  [ EXPRESS.JS ]  [ REST APIs ]</tspan></text>
+    <text x="56" y="1236"><tspan fill="#9a9a9a">DATABASE   </tspan><tspan fill="#ffffff">::  [ MONGODB ]  [ MYSQL ]</tspan></text>
+    <text x="56" y="1274"><tspan fill="#9a9a9a">TOOLS      </tspan><tspan fill="#ffffff">::  [ GIT ]  [ DOCKER ]  [ POSTMAN ]  [ BURP SUITE ]</tspan></text>
+    <text x="56" y="1387" fill="#ffffff">pradeep@github:~$ ps --working-on</text>
+    <text x="56" y="1463" fill="#9a9a9a">PID    PROJECT              STATUS</text>
+    <text x="56" y="1501" fill="#ffffff">101    API Sentinel AI      RUNNING</text>
+    <text x="56" y="1539" fill="#ffffff">204    Terminal-IQ          INITIALIZING</text>
+    <text x="56" y="1577" fill="#ffffff">305    DSA Tracker          DEPLOYED</text>
+    <text x="56" y="1690" fill="#ffffff">pradeep@github:~$ ./github-stats</text>
+    <text x="56" y="1766"><tspan fill="#9a9a9a">PROFILE       </tspan><tspan fill="#ffffff">::  pradeep-git-dev</tspan></text>
+    <text x="56" y="1804"><tspan fill="#9a9a9a">FOCUS         </tspan><tspan fill="#ffffff">::  Backend / API Security / Developer Tools</tspan></text>
+    <text x="56" y="1842"><tspan fill="#9a9a9a">OPEN SOURCE   </tspan><tspan fill="#ffffff">::  ACTIVE</tspan></text>
+    <text x="56" y="1880"><tspan fill="#9a9a9a">STATUS        </tspan><tspan fill="#ffffff">::  BUILDING</tspan></text>
+    <text x="56" y="1993" fill="#ffffff">pradeep@github:~$ ./connect-me.sh</text>
+    <text x="56" y="2069" fill="#9a9a9a">AVAILABLE CONNECTIONS</text>
+    <text x="56" y="2107" fill="#ffffff">[01] LINKEDIN  ::  pradeep-naru-78967a320</text>
+    <text x="56" y="2145" fill="#ffffff">[02] GMAIL     ::  narupradeep001@gmail.com</text>
+    <text x="56" y="2221" fill="#9a9a9a">select connection &gt; _</text>
+    <text x="56" y="2334"><tspan fill="#ffffff">pradeep@github:~$ </tspan><tspan fill="#ffffff">█<animate attributeName="opacity" values="1;1;0;0;1" dur="1.1s" repeatCount="indefinite"/></tspan></text>
+  </g>
+</svg>
