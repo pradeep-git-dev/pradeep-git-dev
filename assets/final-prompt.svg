@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" viewBox="0 0 1100 130">
+  <title id="title">Final terminal prompt</title>
+  <desc id="desc">A final shell prompt with a blinking cursor.</desc>
+  <rect width="1100" height="130" fill="#000000"/>
+  <text x="56" y="82" fill="#ffffff" font-family="Consolas, Menlo, Monaco, 'Courier New', monospace" font-size="30">pradeep@github:~$</text>
+  <rect x="336" y="52" width="18" height="34" fill="#ffffff">
+    <animate attributeName="opacity" values="1;1;0;0;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+</svg>

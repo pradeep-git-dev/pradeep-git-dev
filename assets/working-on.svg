@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" viewBox="0 0 1100 820">
+  <title id="title">Currently working on</title>
+  <desc id="desc">A terminal process table with current projects API Sentinel AI, Terminal-IQ, and DSA Tracker.</desc>
+  <rect width="1100" height="820" fill="#000000"/>
+  <text x="56" y="72" fill="#ffffff" font-family="Consolas, Menlo, Monaco, 'Courier New', monospace" font-size="30">pradeep@github:~$ ps --working-on</text>
+  <g font-family="Consolas, Menlo, Monaco, 'Courier New', monospace">
+    <text x="70" y="135" fill="#9a9a9a" font-size="24">PID     PROJECT                 STATUS</text>
+    <line x1="56" y1="158" x2="1044" y2="158" stroke="#555555" stroke-width="2"/>
+    <text x="70" y="212" fill="#ffffff" font-size="27">101     API Sentinel AI         RUNNING</text>
+    <text x="70" y="257" fill="#9a9a9a" font-size="22">desc    Crawls APIs, runs security checks, detects vulnerabilities,</text>
+    <text x="70" y="294" fill="#9a9a9a" font-size="22">        fingerprints technologies, and generates structured reports.</text>
+    <text x="70" y="337" fill="#9a9a9a" font-size="22">arch    Next.js / Express.js / FastAPI / MongoDB</text>
+    <line x1="56" y1="372" x2="1044" y2="372" stroke="#333333" stroke-width="2"/>
+    <text x="70" y="426" fill="#ffffff" font-size="27">204     Terminal-IQ             BUILDING</text>
+    <text x="70" y="471" fill="#9a9a9a" font-size="22">desc    AI-powered terminal for natural-language commands,</text>
+    <text x="70" y="508" fill="#9a9a9a" font-size="22">        developer workflows, and RAG-based assistance.</text>
+    <line x1="56" y1="548" x2="1044" y2="548" stroke="#333333" stroke-width="2"/>
+    <text x="70" y="602" fill="#ffffff" font-size="27">305     DSA Tracker             DEPLOYED</text>
+    <text x="70" y="647" fill="#9a9a9a" font-size="22">desc    Tracks DSA problem-solving progress, revision, and consistency.</text>
+    <line x1="56" y1="686" x2="1044" y2="686" stroke="#333333" stroke-width="2"/>
+    <text x="70" y="750" fill="#ffffff" font-size="27">exit code: 0</text>
+    <text x="70" y="790" fill="#9a9a9a" font-size="22">3 processes listed</text>
+  </g>
+</svg>
